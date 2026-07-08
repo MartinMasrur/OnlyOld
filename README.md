@@ -40,7 +40,7 @@ If you're nostalgic about the internet of 2010s or just tired of infinite scroll
 ---
 
 ## 📸 Preview
-!(IMG/preview.jpg) 
+![](IMG/preview.jpg) 
 
 ---
 
