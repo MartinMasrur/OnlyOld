@@ -40,9 +40,7 @@ If you're nostalgic about the internet of 2010s or just tired of infinite scroll
 ---
 
 ## 📸 Preview
-
-> *Coming soon.*  
-> But imagine a feed where every post has a timestamp — and that timestamp is always **yesterday**.
+![](IMG/preview.jpg) 
 
 ---
 
