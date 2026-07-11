@@ -32,8 +32,8 @@ If you're nostalgic about the internet of 2010s or just tired of infinite scroll
 
 ## 🛠️ Tech Stack (Planned)
 
-- **Frontend**: HTML, CSS, JavaScript (or React)
-- **Backend**: Node.js / Python (Django/Flask)
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Node.js / Python(Django)
 - **Database**: PostgreSQL / MongoDB
 - **Hosting**: GitHub Pages (for now)
 
