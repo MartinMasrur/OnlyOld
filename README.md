@@ -57,7 +57,7 @@ We welcome anyone who believes **old is gold**.
 
 ## 📬 Contact
 
-Have a thought? Open an **Issue** or reach out via [your-email/links].
+Have a thought? Open an **Issue** or reach out via [MartinMasrur@gmail.com].
 
 ---
 
